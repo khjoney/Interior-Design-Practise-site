@@ -1,0 +1,40 @@
+body{
+	background: #F5D9D8;
+	font-family: Kulim;
+}
+
+#mainNavbar{
+	font-size: 1.5rem;
+	font-weight: 100;
+}
+
+#mainNavbar .navbar-brand{
+	color: #EA1C2C;
+}
+
+#mainNavbar .nav-link{
+	color: White
+}
+
+#mainNavbar .nav-link:hover{
+	color: #EA1C2C;
+}
+/*
+#headingGroup span{
+	color: red;
+	
+}
+#headingGroup h2{
+	font-weight: 100;
+	font-size: 4rem;
+}
+
+*/
+
+.text-center{
+	color: red;
+}
+
+#displayGeneral span{
+	color: Orange;
+}
